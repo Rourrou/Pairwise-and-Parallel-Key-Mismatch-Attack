@@ -1,0 +1,23 @@
+sage: load("/home/smy/Documents/Leaky-LWE-Estimator/framework/instance_gen.sage")                                       
+sage: n = 512                                                                                                           
+sage: m = n                                                                                                             
+sage: q = 3329                                                                                                          
+sage: D_s = {-3: 1/64, -2: 6/64, -1: 15/64, 0: 20/64, 1: 15/64, 2: 6/64, 3: 1/64}                                       
+sage: D_e = D_s                                                                                                         
+sage: A, b, dbdd = initialize_from_LWE_instance(DBDD, n, q, m, D_e, D_s)                                                
+      Build DBDD from LWE      
+ n=512 	 m=512 	 q=3329 
+sage: Beta = []                                                                                                         
+sage: beta, delta = dbdd.estimate_attack()                                                                              
+       Attack Estimation      
+ dim=1025 	 δ=1.003945 	 β=405.53  
+  
+sage: for i in range (0, 512): 
+....:     v = vec([1 if j == (m+1+i) else 0 for j in range(m + n)]) 
+....:     leak = dbdd.leak(v) 
+....:     _ = dbdd.integrate_perfect_hint(v, leak) 
+....:     u = vec([q if j == i else 0 for j in range(m + n)]) 
+....:     _ = dbdd.integrate_short_vector_hint(u) 
+....:                                                                                                                   
+ integrate perfect hint  
+

@@ -1,0 +1,37 @@
+sage: import matplotlib.pyplot as plt                                           
+sage: x = []                                                                    
+sage: for i in range(0, 1024, 20): 
+....:     x.append(i) 
+sage: y = []                                                                    
+sage: for i in range(0,1024):  
+....:  y.append(Beta1024[i]/3.43) 
+....:                   
+
+sage: x_8 = []                                                                                              
+sage: x_16 = []                                                                                              
+sage: x_26 = []                                                                 
+sage: for i in range(0, 1024, 1): x_8.append(i/16*5)                            
+sage: for i in range(0, 1024, 1): x_16.append(i/32*5)                           
+sage: for i in range(0, 1024, 1): x_26.append(i/52*5)                           
+                        
+sage: plt.figure()                                                              
+<Figure size 640x480 with 0 Axes>
+sage: plt.plot(x_8, y, label='L=8',color='orange')                              
+[<matplotlib.lines.Line2D object at 0x7fadf0293550>]
+sage: plt.plot(x_16, y, label='L=16',color='green')                             
+[<matplotlib.lines.Line2D object at 0x7fadf02a24c0>]
+sage: plt.plot(x_26, y, label='L=26',color='blue')                              
+[<matplotlib.lines.Line2D object at 0x7fadf022cee0>]
+sage: plt.axhline(y=32, color='r', linestyle='--')                              
+<matplotlib.lines.Line2D object at 0x7fadf02a88e0>
+sage: plt.text(0,32, f"32", va='bottom', ha='left',color='red')                 
+Text(0, 32, '32')
+sage: plt.title("Kyber 1024")                                                   
+Text(0.5, 1.0, 'Kyber 1024')
+sage: plt.xlabel("The number of queries")                                       
+Text(0.5, 0, 'The number of queries')
+sage: plt.ylabel("Security")                                                    
+Text(0, 0.5, 'Security')
+sage: plt.legend()                                                              
+<matplotlib.legend.Legend object at 0x7fadf02e56d0>
+sage: plt.show()     

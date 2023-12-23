@@ -1,0 +1,866 @@
+integrate perfect hint   	 Worthy hint !   dim=1024, δ=1.00395147, β=404.56 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=1023, δ=1.00395807, β=403.58 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=1022, δ=1.00396467, β=402.61 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=1021, δ=1.00397130, β=401.64 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=1020, δ=1.00397795, β=400.66 
+ integrate short vector hint   	 Worthy hint !   dim=1019, δ=1.00397795, β=400.66 
+ integrate perfect hint   	 Worthy hint !   dim=1018, δ=1.00398462, β=399.69 
+ integrate short vector hint   	 Worthy hint !   dim=1017, δ=1.00398463, β=399.69 
+ integrate perfect hint   	 Worthy hint !   dim=1016, δ=1.00399132, β=398.72 
+ integrate short vector hint   	 Worthy hint !   dim=1015, δ=1.00399132, β=398.72 
+ integrate perfect hint   	 Worthy hint !   dim=1014, δ=1.00399804, β=397.75 
+ integrate short vector hint   	 Worthy hint !   dim=1013, δ=1.00399805, β=397.75 
+ integrate perfect hint   	 Worthy hint !   dim=1012, δ=1.00400479, β=396.78 
+ integrate short vector hint   	 Worthy hint !   dim=1011, δ=1.00400479, β=396.78 
+ integrate perfect hint   	 Worthy hint !   dim=1010, δ=1.00401156, β=395.81 
+ integrate short vector hint   	 Worthy hint !   dim=1009, δ=1.00401156, β=395.81 
+ integrate perfect hint   	 Worthy hint !   dim=1008, δ=1.00401835, β=394.83 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=1007, δ=1.00402517, β=393.86 
+ integrate short vector hint   	 Worthy hint !   dim=1006, δ=1.00402517, β=393.86 
+ integrate perfect hint   	 Worthy hint !   dim=1005, δ=1.00403201, β=392.89 
+ integrate short vector hint   	 Worthy hint !   dim=1004, δ=1.00403201, β=392.89 
+ integrate perfect hint   	 Worthy hint !   dim=1003, δ=1.00403888, β=391.92 
+ integrate short vector hint   	 Worthy hint !   dim=1002, δ=1.00403888, β=391.92 
+ integrate perfect hint   	 Worthy hint !   dim=1001, δ=1.00404577, β=390.95 
+ integrate short vector hint   	 Worthy hint !   dim=1000, δ=1.00404577, β=390.95 
+ integrate perfect hint   	 Worthy hint !   dim=999, δ=1.00405269, β=389.98 
+ integrate short vector hint   	 Worthy hint !   dim=998, δ=1.00405269, β=389.98 
+ integrate perfect hint   	 Worthy hint !   dim=997, δ=1.00406088, β=389.01 
+ integrate short vector hint   	 Worthy hint !   dim=996, δ=1.00406088, β=389.01 
+ integrate perfect hint   	 Worthy hint !   dim=995, δ=1.00406785, β=388.04 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=994, δ=1.00407484, β=387.07 
+ integrate short vector hint   	 Worthy hint !   dim=993, δ=1.00407485, β=387.07 
+ integrate perfect hint   	 Worthy hint !   dim=992, δ=1.00408187, β=386.10 
+ integrate short vector hint   	 Worthy hint !   dim=991, δ=1.00408187, β=386.10 
+ integrate perfect hint   	 Worthy hint !   dim=990, δ=1.00408892, β=385.14 
+ integrate short vector hint   	 Worthy hint !   dim=989, δ=1.00408892, β=385.13 
+ integrate perfect hint   	 Worthy hint !   dim=988, δ=1.00409599, β=384.17 
+ integrate short vector hint   	 Worthy hint !   dim=987, δ=1.00409600, β=384.17 
+ integrate perfect hint   	 Worthy hint !   dim=986, δ=1.00410309, β=383.20 
+ integrate short vector hint   	 Worthy hint !   dim=985, δ=1.00410310, β=383.20 
+ integrate perfect hint   	 Worthy hint !   dim=984, δ=1.00411022, β=382.23 
+ integrate short vector hint   	 Worthy hint !   dim=983, δ=1.00411022, β=382.23 
+ integrate perfect hint   	 Worthy hint !   dim=982, δ=1.00411737, β=381.26 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=981, δ=1.00412455, β=380.29 
+ integrate short vector hint   	 Worthy hint !   dim=980, δ=1.00412455, β=380.29 
+ integrate perfect hint   	 Worthy hint !   dim=979, δ=1.00413175, β=379.33 
+ integrate short vector hint   	 Worthy hint !   dim=978, δ=1.00413176, β=379.32 
+ integrate perfect hint   	 Worthy hint !   dim=977, δ=1.00413899, β=378.36 
+ integrate short vector hint   	 Worthy hint !   dim=976, δ=1.00413899, β=378.36 
+ integrate perfect hint   	 Worthy hint !   dim=975, δ=1.00414625, β=377.39 
+ integrate short vector hint   	 Worthy hint !   dim=974, δ=1.00414625, β=377.39 
+ integrate perfect hint   	 Worthy hint !   dim=973, δ=1.00415354, β=376.42 
+ integrate short vector hint   	 Worthy hint !   dim=972, δ=1.00415354, β=376.42 
+ integrate perfect hint   	 Worthy hint !   dim=971, δ=1.00416085, β=375.46 
+ integrate short vector hint   	 Worthy hint !   dim=970, δ=1.00416085, β=375.46 
+ integrate perfect hint   	 Worthy hint !   dim=969, δ=1.00416819, β=374.49 
+ integrate short vector hint   	 Worthy hint !   dim=968, δ=1.00416819, β=374.49 
+ integrate perfect hint   	 Worthy hint !   dim=967, δ=1.00417556, β=373.52 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=966, δ=1.00418295, β=372.56 
+ integrate short vector hint   	 Worthy hint !   dim=965, δ=1.00418296, β=372.56 
+ integrate perfect hint   	 Worthy hint !   dim=964, δ=1.00419037, β=371.59 
+ integrate short vector hint   	 Worthy hint !   dim=963, δ=1.00419038, β=371.59 
+ integrate perfect hint   	 Worthy hint !   dim=962, δ=1.00419783, β=370.62 
+ integrate short vector hint   	 Worthy hint !   dim=961, δ=1.00419783, β=370.62 
+ integrate perfect hint   	 Worthy hint !   dim=960, δ=1.00420531, β=369.66 
+ integrate short vector hint   	 Worthy hint !   dim=959, δ=1.00420531, β=369.66 
+ integrate perfect hint   	 Worthy hint !   dim=958, δ=1.00421282, β=368.69 
+ integrate short vector hint   	 Worthy hint !   dim=957, δ=1.00421282, β=368.69 
+ integrate perfect hint   	 Worthy hint !   dim=956, δ=1.00422035, β=367.73 
+ integrate short vector hint   	 Worthy hint !   dim=955, δ=1.00422035, β=367.73 
+ integrate perfect hint   	 Worthy hint !   dim=954, δ=1.00422792, β=366.76 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=953, δ=1.00423550, β=365.80 
+ integrate short vector hint   	 Worthy hint !   dim=952, δ=1.00423551, β=365.80 
+ integrate perfect hint   	 Worthy hint !   dim=951, δ=1.00424313, β=364.83 
+ integrate short vector hint   	 Worthy hint !   dim=950, δ=1.00424313, β=364.83 
+ integrate perfect hint   	 Worthy hint !   dim=949, δ=1.00425078, β=363.87 
+ integrate short vector hint   	 Worthy hint !   dim=948, δ=1.00425078, β=363.87 
+ integrate perfect hint   	 Worthy hint !   dim=947, δ=1.00425846, β=362.90 
+ integrate short vector hint   	 Worthy hint !   dim=946, δ=1.00425846, β=362.90 
+ integrate perfect hint   	 Worthy hint !   dim=945, δ=1.00426617, β=361.94 
+ integrate short vector hint   	 Worthy hint !   dim=944, δ=1.00426617, β=361.94 
+ integrate perfect hint   	 Worthy hint !   dim=943, δ=1.00427391, β=360.97 
+ integrate short vector hint   	 Worthy hint !   dim=942, δ=1.00427391, β=360.97 
+ integrate perfect hint   	 Worthy hint !   dim=941, δ=1.00428310, β=360.01 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=940, δ=1.00429090, β=359.05 
+ integrate short vector hint   	 Worthy hint !   dim=939, δ=1.00429091, β=359.05 
+ integrate perfect hint   	 Worthy hint !   dim=938, δ=1.00429873, β=358.08 
+ integrate short vector hint   	 Worthy hint !   dim=937, δ=1.00429874, β=358.08 
+ integrate perfect hint   	 Worthy hint !   dim=936, δ=1.00430660, β=357.12 
+ integrate short vector hint   	 Worthy hint !   dim=935, δ=1.00430661, β=357.12 
+ integrate perfect hint   	 Worthy hint !   dim=934, δ=1.00431450, β=356.16 
+ integrate short vector hint   	 Worthy hint !   dim=933, δ=1.00431451, β=356.16 
+ integrate perfect hint   	 Worthy hint !   dim=932, δ=1.00432243, β=355.20 
+ integrate short vector hint   	 Worthy hint !   dim=931, δ=1.00432243, β=355.20 
+ integrate perfect hint   	 Worthy hint !   dim=930, δ=1.00433039, β=354.23 
+ integrate short vector hint   	 Worthy hint !   dim=929, δ=1.00433039, β=354.23 
+ integrate perfect hint   	 Worthy hint !   dim=928, δ=1.00433838, β=353.27 
+ integrate short vector hint   	 Worthy hint !   dim=927, δ=1.00433838, β=353.27 
+ integrate perfect hint   	 Worthy hint !   dim=926, δ=1.00434640, β=352.31 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=925, δ=1.00435444, β=351.35 
+ integrate short vector hint   	 Worthy hint !   dim=924, δ=1.00435445, β=351.35 
+ integrate perfect hint   	 Worthy hint !   dim=923, δ=1.00436252, β=350.39 
+ integrate short vector hint   	 Worthy hint !   dim=922, δ=1.00436253, β=350.39 
+ integrate perfect hint   	 Worthy hint !   dim=921, δ=1.00437064, β=349.43 
+ integrate short vector hint   	 Worthy hint !   dim=920, δ=1.00437065, β=349.43 
+ integrate perfect hint   	 Worthy hint !   dim=919, δ=1.00437879, β=348.46 
+ integrate short vector hint   	 Worthy hint !   dim=918, δ=1.00437879, β=348.46 
+ integrate perfect hint   	 Worthy hint !   dim=917, δ=1.00438697, β=347.50 
+ integrate short vector hint   	 Worthy hint !   dim=916, δ=1.00438697, β=347.50 
+ integrate perfect hint   	 Worthy hint !   dim=915, δ=1.00439518, β=346.54 
+ integrate short vector hint   	 Worthy hint !   dim=914, δ=1.00439518, β=346.54 
+ integrate perfect hint   	 Worthy hint !   dim=913, δ=1.00440342, β=345.58 
+ integrate short vector hint   	 Worthy hint !   dim=912, δ=1.00440342, β=345.58 
+ integrate perfect hint   	 Worthy hint !   dim=911, δ=1.00441170, β=344.62 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=910, δ=1.00442000, β=343.66 
+ integrate short vector hint   	 Worthy hint !   dim=909, δ=1.00442001, β=343.66 
+ integrate perfect hint   	 Worthy hint !   dim=908, δ=1.00442834, β=342.70 
+ integrate short vector hint   	 Worthy hint !   dim=907, δ=1.00442835, β=342.70 
+ integrate perfect hint   	 Worthy hint !   dim=906, δ=1.00443672, β=341.74 
+ integrate short vector hint   	 Worthy hint !   dim=905, δ=1.00443673, β=341.74 
+ integrate perfect hint   	 Worthy hint !   dim=904, δ=1.00444513, β=340.78 
+ integrate short vector hint   	 Worthy hint !   dim=903, δ=1.00444513, β=340.78 
+ integrate perfect hint   	 Worthy hint !   dim=902, δ=1.00445357, β=339.82 
+ integrate short vector hint   	 Worthy hint !   dim=901, δ=1.00445358, β=339.82 
+ integrate perfect hint   	 Worthy hint !   dim=900, δ=1.00446205, β=338.87 
+ integrate short vector hint   	 Worthy hint !   dim=899, δ=1.00446205, β=338.87 
+ integrate perfect hint   	 Worthy hint !   dim=898, δ=1.00447056, β=337.91 
+ integrate short vector hint   	 Worthy hint !   dim=897, δ=1.00447056, β=337.91 
+ integrate perfect hint   	 Worthy hint !   dim=896, δ=1.00447911, β=336.95 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=895, δ=1.00448768, β=335.99 
+ integrate short vector hint   	 Worthy hint !   dim=894, δ=1.00448769, β=335.99 
+ integrate perfect hint   	 Worthy hint !   dim=893, δ=1.00449790, β=335.03 
+ integrate short vector hint   	 Worthy hint !   dim=892, δ=1.00449791, β=335.03 
+ integrate perfect hint   	 Worthy hint !   dim=891, δ=1.00450656, β=334.08 
+ integrate short vector hint   	 Worthy hint !   dim=890, δ=1.00450657, β=334.07 
+ integrate perfect hint   	 Worthy hint !   dim=889, δ=1.00451525, β=333.12 
+ integrate short vector hint   	 Worthy hint !   dim=888, δ=1.00451526, β=333.12 
+ integrate perfect hint   	 Worthy hint !   dim=887, δ=1.00452398, β=332.16 
+ integrate short vector hint   	 Worthy hint !   dim=886, δ=1.00452399, β=332.16 
+ integrate perfect hint   	 Worthy hint !   dim=885, δ=1.00453275, β=331.20 
+ integrate short vector hint   	 Worthy hint !   dim=884, δ=1.00453275, β=331.20 
+ integrate perfect hint   	 Worthy hint !   dim=883, δ=1.00454155, β=330.25 
+ integrate short vector hint   	 Worthy hint !   dim=882, δ=1.00454155, β=330.25 
+ integrate perfect hint   	 Worthy hint !   dim=881, δ=1.00455038, β=329.29 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=880, δ=1.00455924, β=328.33 
+ integrate short vector hint   	 Worthy hint !   dim=879, δ=1.00455925, β=328.33 
+ integrate perfect hint   	 Worthy hint !   dim=878, δ=1.00456815, β=327.38 
+ integrate short vector hint   	 Worthy hint !   dim=877, δ=1.00456816, β=327.38 
+ integrate perfect hint   	 Worthy hint !   dim=876, δ=1.00457710, β=326.42 
+ integrate short vector hint   	 Worthy hint !   dim=875, δ=1.00457711, β=326.42 
+ integrate perfect hint   	 Worthy hint !   dim=874, δ=1.00458608, β=325.47 
+ integrate short vector hint   	 Worthy hint !   dim=873, δ=1.00458609, β=325.47 
+ integrate perfect hint   	 Worthy hint !   dim=872, δ=1.00459510, β=324.51 
+ integrate short vector hint   	 Worthy hint !   dim=871, δ=1.00459511, β=324.51 
+ integrate perfect hint   	 Worthy hint !   dim=870, δ=1.00460416, β=323.56 
+ integrate short vector hint   	 Worthy hint !   dim=869, δ=1.00460417, β=323.56 
+ integrate perfect hint   	 Worthy hint !   dim=868, δ=1.00461326, β=322.60 
+ integrate short vector hint   	 Worthy hint !   dim=867, δ=1.00461326, β=322.60 
+ integrate perfect hint   	 Worthy hint !   dim=866, δ=1.00462239, β=321.65 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=865, δ=1.00463155, β=320.69 
+ integrate short vector hint   	 Worthy hint !   dim=864, δ=1.00463156, β=320.69 
+ integrate perfect hint   	 Worthy hint !   dim=863, δ=1.00464076, β=319.74 
+ integrate short vector hint   	 Worthy hint !   dim=862, δ=1.00464077, β=319.74 
+ integrate perfect hint   	 Worthy hint !   dim=861, δ=1.00465001, β=318.78 
+ integrate short vector hint   	 Worthy hint !   dim=860, δ=1.00465002, β=318.78 
+ integrate perfect hint   	 Worthy hint !   dim=859, δ=1.00465930, β=317.83 
+ integrate short vector hint   	 Worthy hint !   dim=858, δ=1.00465931, β=317.83 
+ integrate perfect hint   	 Worthy hint !   dim=857, δ=1.00466863, β=316.88 
+ integrate short vector hint   	 Worthy hint !   dim=856, δ=1.00466863, β=316.88 
+ integrate perfect hint   	 Worthy hint !   dim=855, δ=1.00467799, β=315.92 
+ integrate short vector hint   	 Worthy hint !   dim=854, δ=1.00467800, β=315.92 
+ integrate perfect hint   	 Worthy hint !   dim=853, δ=1.00468740, β=314.97 
+ integrate short vector hint   	 Worthy hint !   dim=852, δ=1.00468740, β=314.97 
+ integrate perfect hint   	 Worthy hint !   dim=851, δ=1.00469864, β=314.02 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=850, δ=1.00470812, β=313.07 
+ integrate short vector hint   	 Worthy hint !   dim=849, δ=1.00470814, β=313.07 
+ integrate perfect hint   	 Worthy hint !   dim=848, δ=1.00471766, β=312.11 
+ integrate short vector hint   	 Worthy hint !   dim=847, δ=1.00471767, β=312.11 
+ integrate perfect hint   	 Worthy hint !   dim=846, δ=1.00472724, β=311.16 
+ integrate short vector hint   	 Worthy hint !   dim=845, δ=1.00472725, β=311.16 
+ integrate perfect hint   	 Worthy hint !   dim=844, δ=1.00473686, β=310.21 
+ integrate short vector hint   	 Worthy hint !   dim=843, δ=1.00473687, β=310.21 
+ integrate perfect hint   	 Worthy hint !   dim=842, δ=1.00474652, β=309.26 
+ integrate short vector hint   	 Worthy hint !   dim=841, δ=1.00474653, β=309.26 
+ integrate perfect hint   	 Worthy hint !   dim=840, δ=1.00475622, β=308.31 
+ integrate short vector hint   	 Worthy hint !   dim=839, δ=1.00475622, β=308.31 
+ integrate perfect hint   	 Worthy hint !   dim=838, δ=1.00476596, β=307.36 
+ integrate short vector hint   	 Worthy hint !   dim=837, δ=1.00476597, β=307.36 
+ integrate perfect hint   	 Worthy hint !   dim=836, δ=1.00477575, β=306.41 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=835, δ=1.00478556, β=305.46 
+ integrate short vector hint   	 Worthy hint !   dim=834, δ=1.00478558, β=305.45 
+ integrate perfect hint   	 Worthy hint !   dim=833, δ=1.00479543, β=304.51 
+ integrate short vector hint   	 Worthy hint !   dim=832, δ=1.00479545, β=304.50 
+ integrate perfect hint   	 Worthy hint !   dim=831, δ=1.00480535, β=303.55 
+ integrate short vector hint   	 Worthy hint !   dim=830, δ=1.00480536, β=303.55 
+ integrate perfect hint   	 Worthy hint !   dim=829, δ=1.00481531, β=302.60 
+ integrate short vector hint   	 Worthy hint !   dim=828, δ=1.00481531, β=302.60 
+ integrate perfect hint   	 Worthy hint !   dim=827, δ=1.00482531, β=301.66 
+ integrate short vector hint   	 Worthy hint !   dim=826, δ=1.00482531, β=301.65 
+ integrate perfect hint   	 Worthy hint !   dim=825, δ=1.00483535, β=300.71 
+ integrate short vector hint   	 Worthy hint !   dim=824, δ=1.00483536, β=300.71 
+ integrate perfect hint   	 Worthy hint !   dim=823, δ=1.00484544, β=299.76 
+ integrate short vector hint   	 Worthy hint !   dim=822, δ=1.00484544, β=299.76 
+ integrate perfect hint   	 Worthy hint !   dim=821, δ=1.00485557, β=298.81 
+ integrate short vector hint   	 Worthy hint !   dim=820, δ=1.00485557, β=298.81 
+ integrate perfect hint   	 Worthy hint !   dim=819, δ=1.00486575, β=297.86 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=818, δ=1.00487596, β=296.91 
+ integrate short vector hint   	 Worthy hint !   dim=817, δ=1.00487597, β=296.91 
+ integrate perfect hint   	 Worthy hint !   dim=816, δ=1.00488623, β=295.96 
+ integrate short vector hint   	 Worthy hint !   dim=815, δ=1.00488624, β=295.96 
+ integrate perfect hint   	 Worthy hint !   dim=814, δ=1.00489853, β=295.02 
+ integrate short vector hint   	 Worthy hint !   dim=813, δ=1.00489854, β=295.01 
+ integrate perfect hint   	 Worthy hint !   dim=812, δ=1.00490890, β=294.07 
+ integrate short vector hint   	 Worthy hint !   dim=811, δ=1.00490891, β=294.07 
+ integrate perfect hint   	 Worthy hint !   dim=810, δ=1.00491932, β=293.12 
+ integrate short vector hint   	 Worthy hint !   dim=809, δ=1.00491933, β=293.12 
+ integrate perfect hint   	 Worthy hint !   dim=808, δ=1.00492979, β=292.17 
+ integrate short vector hint   	 Worthy hint !   dim=807, δ=1.00492979, β=292.17 
+ integrate perfect hint   	 Worthy hint !   dim=806, δ=1.00494030, β=291.23 
+ integrate short vector hint   	 Worthy hint !   dim=805, δ=1.00494030, β=291.23 
+ integrate perfect hint   	 Worthy hint !   dim=804, δ=1.00495085, β=290.28 
+ integrate short vector hint   	 Worthy hint !   dim=803, δ=1.00495086, β=290.28 
+ integrate perfect hint   	 Worthy hint !   dim=802, δ=1.00496146, β=289.33 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=801, δ=1.00497210, β=288.39 
+ integrate short vector hint   	 Worthy hint !   dim=800, δ=1.00497211, β=288.39 
+ integrate perfect hint   	 Worthy hint !   dim=799, δ=1.00498280, β=287.44 
+ integrate short vector hint   	 Worthy hint !   dim=798, δ=1.00498281, β=287.44 
+ integrate perfect hint   	 Worthy hint !   dim=797, δ=1.00499355, β=286.50 
+ integrate short vector hint   	 Worthy hint !   dim=796, δ=1.00499356, β=286.50 
+ integrate perfect hint   	 Worthy hint !   dim=795, δ=1.00500435, β=285.55 
+ integrate short vector hint   	 Worthy hint !   dim=794, δ=1.00500436, β=285.55 
+ integrate perfect hint   	 Worthy hint !   dim=793, δ=1.00501520, β=284.61 
+ integrate short vector hint   	 Worthy hint !   dim=792, δ=1.00501521, β=284.61 
+ integrate perfect hint   	 Worthy hint !   dim=791, δ=1.00502610, β=283.66 
+ integrate short vector hint   	 Worthy hint !   dim=790, δ=1.00502610, β=283.66 
+ integrate perfect hint   	 Worthy hint !   dim=789, δ=1.00503704, β=282.72 
+ integrate short vector hint   	 Worthy hint !   dim=788, δ=1.00503705, β=282.72 
+ integrate perfect hint   	 Worthy hint !   dim=787, δ=1.00504804, β=281.77 
+ integrate short vector hint   	 Worthy hint !   dim=786, δ=1.00504804, β=281.77 
+ integrate perfect hint   	 Worthy hint !   dim=785, δ=1.00505909, β=280.83 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=784, δ=1.00507018, β=279.89 
+ integrate short vector hint   	 Worthy hint !   dim=783, δ=1.00507019, β=279.89 
+ integrate perfect hint   	 Worthy hint !   dim=782, δ=1.00508133, β=278.94 
+ integrate short vector hint   	 Worthy hint !   dim=781, δ=1.00508134, β=278.94 
+ integrate perfect hint   	 Worthy hint !   dim=780, δ=1.00509473, β=278.00 
+ integrate short vector hint   	 Worthy hint !   dim=779, δ=1.00509254, β=278.00 
+ integrate perfect hint   	 Worthy hint !   dim=778, δ=1.00510600, β=277.06 
+ integrate short vector hint   	 Worthy hint !   dim=777, δ=1.00510601, β=277.06 
+ integrate perfect hint   	 Worthy hint !   dim=776, δ=1.00511732, β=276.11 
+ integrate short vector hint   	 Worthy hint !   dim=775, δ=1.00511733, β=276.11 
+ integrate perfect hint   	 Worthy hint !   dim=774, δ=1.00512870, β=275.17 
+ integrate short vector hint   	 Worthy hint !   dim=773, δ=1.00512870, β=275.17 
+ integrate perfect hint   	 Worthy hint !   dim=772, δ=1.00514012, β=274.23 
+ integrate short vector hint   	 Worthy hint !   dim=771, δ=1.00514013, β=274.23 
+ integrate perfect hint   	 Worthy hint !   dim=770, δ=1.00515161, β=273.29 
+ integrate short vector hint   	 Worthy hint !   dim=769, δ=1.00515161, β=273.29 
+ integrate perfect hint   	 Worthy hint !   dim=768, δ=1.00516314, β=272.35 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=767, δ=1.00517471, β=271.41 
+ integrate short vector hint   	 Worthy hint !   dim=766, δ=1.00517473, β=271.41 
+ integrate perfect hint   	 Worthy hint !   dim=765, δ=1.00518636, β=270.47 
+ integrate short vector hint   	 Worthy hint !   dim=764, δ=1.00518637, β=270.47 
+ integrate perfect hint   	 Worthy hint !   dim=763, δ=1.00519806, β=269.53 
+ integrate short vector hint   	 Worthy hint !   dim=762, δ=1.00519807, β=269.52 
+ integrate perfect hint   	 Worthy hint !   dim=761, δ=1.00520981, β=268.59 
+ integrate short vector hint   	 Worthy hint !   dim=760, δ=1.00520982, β=268.58 
+ integrate perfect hint   	 Worthy hint !   dim=759, δ=1.00522162, β=267.64 
+ integrate short vector hint   	 Worthy hint !   dim=758, δ=1.00522163, β=267.64 
+ integrate perfect hint   	 Worthy hint !   dim=757, δ=1.00523349, β=266.70 
+ integrate short vector hint   	 Worthy hint !   dim=756, δ=1.00523350, β=266.70 
+ integrate perfect hint   	 Worthy hint !   dim=755, δ=1.00524541, β=265.77 
+ integrate short vector hint   	 Worthy hint !   dim=754, δ=1.00524542, β=265.77 
+ integrate perfect hint   	 Worthy hint !   dim=753, δ=1.00525739, β=264.83 
+ integrate short vector hint   	 Worthy hint !   dim=752, δ=1.00525740, β=264.83 
+ integrate perfect hint   	 Worthy hint !   dim=751, δ=1.00526943, β=263.89 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=750, δ=1.00528151, β=262.95 
+ integrate short vector hint   	 Worthy hint !   dim=749, δ=1.00528153, β=262.95 
+ integrate perfect hint   	 Worthy hint !   dim=748, δ=1.00529610, β=262.01 
+ integrate short vector hint   	 Worthy hint !   dim=747, δ=1.00529612, β=262.01 
+ integrate perfect hint   	 Worthy hint !   dim=746, δ=1.00530833, β=261.07 
+ integrate short vector hint   	 Worthy hint !   dim=745, δ=1.00530835, β=261.07 
+ integrate perfect hint   	 Worthy hint !   dim=744, δ=1.00532062, β=260.13 
+ integrate short vector hint   	 Worthy hint !   dim=743, δ=1.00532063, β=260.13 
+ integrate perfect hint   	 Worthy hint !   dim=742, δ=1.00533297, β=259.20 
+ integrate short vector hint   	 Worthy hint !   dim=741, δ=1.00533298, β=259.20 
+ integrate perfect hint   	 Worthy hint !   dim=740, δ=1.00534538, β=258.26 
+ integrate short vector hint   	 Worthy hint !   dim=739, δ=1.00534539, β=258.26 
+ integrate perfect hint   	 Worthy hint !   dim=738, δ=1.00535785, β=257.32 
+ integrate short vector hint   	 Worthy hint !   dim=737, δ=1.00535786, β=257.32 
+ integrate perfect hint   	 Worthy hint !   dim=736, δ=1.00537038, β=256.39 
+ integrate short vector hint   	 Worthy hint !   dim=735, δ=1.00537039, β=256.39 
+ integrate perfect hint   	 Worthy hint !   dim=734, δ=1.00538297, β=255.45 
+ integrate short vector hint   	 Worthy hint !   dim=733, δ=1.00538298, β=255.45 
+ integrate perfect hint   	 Worthy hint !   dim=732, δ=1.00539563, β=254.51 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=731, δ=1.00540833, β=253.58 
+ integrate short vector hint   	 Worthy hint !   dim=730, δ=1.00540835, β=253.58 
+ integrate perfect hint   	 Worthy hint !   dim=729, δ=1.00542111, β=252.64 
+ integrate short vector hint   	 Worthy hint !   dim=728, δ=1.00542113, β=252.64 
+ integrate perfect hint   	 Worthy hint !   dim=727, δ=1.00543396, β=251.71 
+ integrate short vector hint   	 Worthy hint !   dim=726, δ=1.00543397, β=251.71 
+ integrate perfect hint   	 Worthy hint !   dim=725, δ=1.00544686, β=250.77 
+ integrate short vector hint   	 Worthy hint !   dim=724, δ=1.00544688, β=250.77 
+ integrate perfect hint   	 Worthy hint !   dim=723, δ=1.00545984, β=249.84 
+ integrate short vector hint   	 Worthy hint !   dim=722, δ=1.00545985, β=249.84 
+ integrate perfect hint   	 Worthy hint !   dim=721, δ=1.00547288, β=248.90 
+ integrate short vector hint   	 Worthy hint !   dim=720, δ=1.00547288, β=248.90 
+ integrate perfect hint   	 Worthy hint !   dim=719, δ=1.00548598, β=247.97 
+ integrate short vector hint   	 Worthy hint !   dim=718, δ=1.00548599, β=247.97 
+ integrate perfect hint   	 Worthy hint !   dim=717, δ=1.00550183, β=247.03 
+ integrate short vector hint   	 Worthy hint !   dim=716, δ=1.00550184, β=247.03 
+ integrate perfect hint   	 Worthy hint !   dim=715, δ=1.00551509, β=246.10 
+ integrate short vector hint   	 Worthy hint !   dim=714, δ=1.00551509, β=246.10 
+ integrate perfect hint   	 Worthy hint !   dim=713, δ=1.00552841, β=245.17 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=712, δ=1.00554177, β=244.24 
+ integrate short vector hint   	 Worthy hint !   dim=711, δ=1.00554180, β=244.23 
+ integrate perfect hint   	 Worthy hint !   dim=710, δ=1.00555523, β=243.30 
+ integrate short vector hint   	 Worthy hint !   dim=709, δ=1.00555525, β=243.30 
+ integrate perfect hint   	 Worthy hint !   dim=708, δ=1.00556876, β=242.37 
+ integrate short vector hint   	 Worthy hint !   dim=707, δ=1.00556878, β=242.37 
+ integrate perfect hint   	 Worthy hint !   dim=706, δ=1.00558236, β=241.44 
+ integrate short vector hint   	 Worthy hint !   dim=705, δ=1.00558237, β=241.44 
+ integrate perfect hint   	 Worthy hint !   dim=704, δ=1.00559602, β=240.51 
+ integrate short vector hint   	 Worthy hint !   dim=703, δ=1.00559603, β=240.51 
+ integrate perfect hint   	 Worthy hint !   dim=702, δ=1.00560976, β=239.57 
+ integrate short vector hint   	 Worthy hint !   dim=701, δ=1.00560977, β=239.57 
+ integrate perfect hint   	 Worthy hint !   dim=700, δ=1.00562356, β=238.64 
+ integrate short vector hint   	 Worthy hint !   dim=699, δ=1.00562357, β=238.64 
+ integrate perfect hint   	 Worthy hint !   dim=698, δ=1.00563744, β=237.71 
+ integrate short vector hint   	 Worthy hint !   dim=697, δ=1.00563745, β=237.71 
+ integrate perfect hint   	 Worthy hint !   dim=696, δ=1.00565139, β=236.78 
+ integrate short vector hint   	 Worthy hint !   dim=695, δ=1.00565139, β=236.78 
+ integrate perfect hint   	 Worthy hint !   dim=694, δ=1.00566541, β=235.85 
+ integrate short vector hint   	 Worthy hint !   dim=693, δ=1.00566541, β=235.85 
+ integrate perfect hint   	 Worthy hint !   dim=692, δ=1.00567950, β=234.92 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=691, δ=1.00569365, β=233.99 
+ integrate short vector hint   	 Worthy hint !   dim=690, δ=1.00569367, β=233.99 
+ integrate perfect hint   	 Worthy hint !   dim=689, δ=1.00571085, β=233.06 
+ integrate short vector hint   	 Worthy hint !   dim=688, δ=1.00571087, β=233.06 
+ integrate perfect hint   	 Worthy hint !   dim=687, δ=1.00572519, β=232.13 
+ integrate short vector hint   	 Worthy hint !   dim=686, δ=1.00572521, β=232.13 
+ integrate perfect hint   	 Worthy hint !   dim=685, δ=1.00573960, β=231.20 
+ integrate short vector hint   	 Worthy hint !   dim=684, δ=1.00573962, β=231.20 
+ integrate perfect hint   	 Worthy hint !   dim=683, δ=1.00575410, β=230.28 
+ integrate short vector hint   	 Worthy hint !   dim=682, δ=1.00575411, β=230.28 
+ integrate perfect hint   	 Worthy hint !   dim=681, δ=1.00576866, β=229.35 
+ integrate short vector hint   	 Worthy hint !   dim=680, δ=1.00576867, β=229.35 
+ integrate perfect hint   	 Worthy hint !   dim=679, δ=1.00578331, β=228.42 
+ integrate short vector hint   	 Worthy hint !   dim=678, δ=1.00578332, β=228.42 
+ integrate perfect hint   	 Worthy hint !   dim=677, δ=1.00579803, β=227.49 
+ integrate short vector hint   	 Worthy hint !   dim=676, δ=1.00579804, β=227.49 
+ integrate perfect hint   	 Worthy hint !   dim=675, δ=1.00581283, β=226.57 
+ integrate short vector hint   	 Worthy hint !   dim=674, δ=1.00581284, β=226.57 
+ integrate perfect hint   	 Worthy hint !   dim=673, δ=1.00582771, β=225.64 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=672, δ=1.00584265, β=224.71 
+ integrate short vector hint   	 Worthy hint !   dim=671, δ=1.00584267, β=224.71 
+ integrate perfect hint   	 Worthy hint !   dim=670, δ=1.00585769, β=223.79 
+ integrate short vector hint   	 Worthy hint !   dim=669, δ=1.00585771, β=223.79 
+ integrate perfect hint   	 Worthy hint !   dim=668, δ=1.00587281, β=222.86 
+ integrate short vector hint   	 Worthy hint !   dim=667, δ=1.00587283, β=222.86 
+ integrate perfect hint   	 Worthy hint !   dim=666, δ=1.00588802, β=221.93 
+ integrate short vector hint   	 Worthy hint !   dim=665, δ=1.00588804, β=221.93 
+ integrate perfect hint   	 Worthy hint !   dim=664, δ=1.00590653, β=221.01 
+ integrate short vector hint   	 Worthy hint !   dim=663, δ=1.00590655, β=221.01 
+ integrate perfect hint   	 Worthy hint !   dim=662, δ=1.00592192, β=220.08 
+ integrate short vector hint   	 Worthy hint !   dim=661, δ=1.00592194, β=220.08 
+ integrate perfect hint   	 Worthy hint !   dim=660, δ=1.00593740, β=219.16 
+ integrate short vector hint   	 Worthy hint !   dim=659, δ=1.00593742, β=219.16 
+ integrate perfect hint   	 Worthy hint !   dim=658, δ=1.00595297, β=218.23 
+ integrate short vector hint   	 Worthy hint !   dim=657, δ=1.00595298, β=218.23 
+ integrate perfect hint   	 Worthy hint !   dim=656, δ=1.00596861, β=217.31 
+ integrate short vector hint   	 Worthy hint !   dim=655, δ=1.00596862, β=217.31 
+ integrate perfect hint   	 Worthy hint !   dim=654, δ=1.00598435, β=216.39 
+ integrate short vector hint   	 Worthy hint !   dim=653, δ=1.00598436, β=216.39 
+ integrate perfect hint   	 Worthy hint !   dim=652, δ=1.00600017, β=215.46 
+ integrate short vector hint   	 Worthy hint !   dim=651, δ=1.00600017, β=215.46 
+ integrate perfect hint   	 Worthy hint !   dim=650, δ=1.00601608, β=214.54 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=649, δ=1.00603205, β=213.62 
+ integrate short vector hint   	 Worthy hint !   dim=648, δ=1.00603208, β=213.62 
+ integrate perfect hint   	 Worthy hint !   dim=647, δ=1.00604814, β=212.70 
+ integrate short vector hint   	 Worthy hint !   dim=646, δ=1.00604816, β=212.69 
+ integrate perfect hint   	 Worthy hint !   dim=645, δ=1.00606432, β=211.77 
+ integrate short vector hint   	 Worthy hint !   dim=644, δ=1.00606434, β=211.77 
+ integrate perfect hint   	 Worthy hint !   dim=643, δ=1.00608059, β=210.85 
+ integrate short vector hint   	 Worthy hint !   dim=642, δ=1.00608060, β=210.85 
+ integrate perfect hint   	 Worthy hint !   dim=641, δ=1.00609695, β=209.93 
+ integrate short vector hint   	 Worthy hint !   dim=640, δ=1.00609696, β=209.93 
+ integrate perfect hint   	 Worthy hint !   dim=639, δ=1.00611693, β=209.01 
+ integrate short vector hint   	 Worthy hint !   dim=638, δ=1.00611695, β=209.01 
+ integrate perfect hint   	 Worthy hint !   dim=637, δ=1.00613350, β=208.09 
+ integrate short vector hint   	 Worthy hint !   dim=636, δ=1.00613352, β=208.09 
+ integrate perfect hint   	 Worthy hint !   dim=635, δ=1.00615017, β=207.17 
+ integrate short vector hint   	 Worthy hint !   dim=634, δ=1.00615018, β=207.17 
+ integrate perfect hint   	 Worthy hint !   dim=633, δ=1.00616693, β=206.25 
+ integrate short vector hint   	 Worthy hint !   dim=632, δ=1.00616694, β=206.25 
+ integrate perfect hint   	 Worthy hint !   dim=631, δ=1.00618378, β=205.33 
+ integrate short vector hint   	 Worthy hint !   dim=630, δ=1.00618379, β=205.33 
+ integrate perfect hint   	 Worthy hint !   dim=629, δ=1.00620074, β=204.41 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=628, δ=1.00621775, β=203.49 
+ integrate short vector hint   	 Worthy hint !   dim=627, δ=1.00621779, β=203.49 
+ integrate perfect hint   	 Worthy hint !   dim=626, δ=1.00623490, β=202.57 
+ integrate short vector hint   	 Worthy hint !   dim=625, δ=1.00623493, β=202.57 
+ integrate perfect hint   	 Worthy hint !   dim=624, δ=1.00625215, β=201.65 
+ integrate short vector hint   	 Worthy hint !   dim=623, δ=1.00625218, β=201.65 
+ integrate perfect hint   	 Worthy hint !   dim=622, δ=1.00626950, β=200.73 
+ integrate short vector hint   	 Worthy hint !   dim=621, δ=1.00626952, β=200.73 
+ integrate perfect hint   	 Worthy hint !   dim=620, δ=1.00628695, β=199.81 
+ integrate short vector hint   	 Worthy hint !   dim=619, δ=1.00628697, β=199.81 
+ integrate perfect hint   	 Worthy hint !   dim=618, δ=1.00630450, β=198.90 
+ integrate short vector hint   	 Worthy hint !   dim=617, δ=1.00630452, β=198.89 
+ integrate perfect hint   	 Worthy hint !   dim=616, δ=1.00632215, β=197.98 
+ integrate short vector hint   	 Worthy hint !   dim=615, δ=1.00632217, β=197.98 
+ integrate perfect hint   	 Worthy hint !   dim=614, δ=1.00634380, β=197.06 
+ integrate short vector hint   	 Worthy hint !   dim=613, δ=1.00634381, β=197.06 
+ integrate perfect hint   	 Worthy hint !   dim=612, δ=1.00636169, β=196.14 
+ integrate short vector hint   	 Worthy hint !   dim=611, δ=1.00636170, β=196.14 
+ integrate perfect hint   	 Worthy hint !   dim=610, δ=1.00637968, β=195.23 
+ integrate short vector hint   	 Worthy hint !   dim=609, δ=1.00637969, β=195.23 
+ integrate perfect hint   	 Worthy hint !   dim=608, δ=1.00639778, β=194.31 
+ integrate short vector hint   	 Worthy hint !   dim=607, δ=1.00639779, β=194.31 
+ integrate perfect hint   	 Worthy hint !   dim=606, δ=1.00641599, β=193.40 
+ integrate short vector hint   	 Worthy hint !   dim=605, δ=1.00641600, β=193.40 
+ integrate perfect hint   	 Worthy hint !   dim=604, δ=1.00643431, β=192.48 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=603, δ=1.00645270, β=191.57 
+ integrate short vector hint   	 Worthy hint !   dim=602, δ=1.00645274, β=191.57 
+ integrate perfect hint   	 Worthy hint !   dim=601, δ=1.00647124, β=190.65 
+ integrate short vector hint   	 Worthy hint !   dim=600, δ=1.00647128, β=190.65 
+ integrate perfect hint   	 Worthy hint !   dim=599, δ=1.00648990, β=189.74 
+ integrate short vector hint   	 Worthy hint !   dim=598, δ=1.00648992, β=189.74 
+ integrate perfect hint   	 Worthy hint !   dim=597, δ=1.00650866, β=188.82 
+ integrate short vector hint   	 Worthy hint !   dim=596, δ=1.00650868, β=188.82 
+ integrate perfect hint   	 Worthy hint !   dim=595, δ=1.00652753, β=187.91 
+ integrate short vector hint   	 Worthy hint !   dim=594, δ=1.00652755, β=187.91 
+ integrate perfect hint   	 Worthy hint !   dim=593, δ=1.00654652, β=187.00 
+ integrate short vector hint   	 Worthy hint !   dim=592, δ=1.00654654, β=186.99 
+ integrate perfect hint   	 Worthy hint !   dim=591, δ=1.00656989, β=186.08 
+ integrate short vector hint   	 Worthy hint !   dim=590, δ=1.00656992, β=186.08 
+ integrate perfect hint   	 Worthy hint !   dim=589, δ=1.00658915, β=185.17 
+ integrate short vector hint   	 Worthy hint !   dim=588, δ=1.00658917, β=185.17 
+ integrate perfect hint   	 Worthy hint !   dim=587, δ=1.00660853, β=184.26 
+ integrate short vector hint   	 Worthy hint !   dim=586, δ=1.00660854, β=184.26 
+ integrate perfect hint   	 Worthy hint !   dim=585, δ=1.00662802, β=183.35 
+ integrate short vector hint   	 Worthy hint !   dim=584, δ=1.00662803, β=183.35 
+ integrate perfect hint   	 Worthy hint !   dim=583, δ=1.00664763, β=182.43 
+ integrate short vector hint   	 Worthy hint !   dim=582, δ=1.00664764, β=182.43 
+ integrate perfect hint   	 Worthy hint !   dim=581, δ=1.00666737, β=181.52 
+ integrate short vector hint   	 Worthy hint !   dim=580, δ=1.00666737, β=181.52 
+ integrate perfect hint   	 Worthy hint !   dim=579, δ=1.00668722, β=180.61 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=578, δ=1.00670716, β=179.70 
+ integrate short vector hint   	 Worthy hint !   dim=577, δ=1.00670720, β=179.70 
+ integrate perfect hint   	 Worthy hint !   dim=576, δ=1.00672727, β=178.79 
+ integrate short vector hint   	 Worthy hint !   dim=575, δ=1.00672731, β=178.79 
+ integrate perfect hint   	 Worthy hint !   dim=574, δ=1.00674750, β=177.88 
+ integrate short vector hint   	 Worthy hint !   dim=573, δ=1.00674753, β=177.88 
+ integrate perfect hint   	 Worthy hint !   dim=572, δ=1.00676786, β=176.97 
+ integrate short vector hint   	 Worthy hint !   dim=571, δ=1.00676789, β=176.97 
+ integrate perfect hint   	 Worthy hint !   dim=570, δ=1.00679301, β=176.06 
+ integrate short vector hint   	 Worthy hint !   dim=569, δ=1.00679304, β=176.06 
+ integrate perfect hint   	 Worthy hint !   dim=568, δ=1.00681366, β=175.15 
+ integrate short vector hint   	 Worthy hint !   dim=567, δ=1.00681369, β=175.15 
+ integrate perfect hint   	 Worthy hint !   dim=566, δ=1.00683445, β=174.24 
+ integrate short vector hint   	 Worthy hint !   dim=565, δ=1.00683448, β=174.24 
+ integrate perfect hint   	 Worthy hint !   dim=564, δ=1.00685537, β=173.34 
+ integrate short vector hint   	 Worthy hint !   dim=563, δ=1.00685539, β=173.34 
+ integrate perfect hint   	 Worthy hint !   dim=562, δ=1.00687642, β=172.43 
+ integrate short vector hint   	 Worthy hint !   dim=561, δ=1.00687644, β=172.43 
+ integrate perfect hint   	 Worthy hint !   dim=560, δ=1.00689761, β=171.52 
+ integrate short vector hint   	 Worthy hint !   dim=559, δ=1.00689762, β=171.52 
+ integrate perfect hint   	 Worthy hint !   dim=558, δ=1.00691893, β=170.61 
+ integrate short vector hint   	 Worthy hint !   dim=557, δ=1.00691894, β=170.61 
+ integrate perfect hint   	 Worthy hint !   dim=556, δ=1.00694039, β=169.71 
+ integrate short vector hint   	 Worthy hint !   dim=555, δ=1.00694040, β=169.71 
+ integrate perfect hint   	 Worthy hint !   dim=554, δ=1.00696198, β=168.80 
+ integrate short vector hint   	 Worthy hint !   dim=553, δ=1.00696199, β=168.80 
+ integrate perfect hint   	 Worthy hint !   dim=552, δ=1.00698372, β=167.89 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=551, δ=1.00700556, β=166.99 
+ integrate short vector hint   	 Worthy hint !   dim=550, δ=1.00700560, β=166.99 
+ integrate perfect hint   	 Worthy hint !   dim=549, δ=1.00703269, β=166.08 
+ integrate short vector hint   	 Worthy hint !   dim=548, δ=1.00703274, β=166.08 
+ integrate perfect hint   	 Worthy hint !   dim=547, δ=1.00705491, β=165.18 
+ integrate short vector hint   	 Worthy hint !   dim=546, δ=1.00705495, β=165.18 
+ integrate perfect hint   	 Worthy hint !   dim=545, δ=1.00707727, β=164.27 
+ integrate short vector hint   	 Worthy hint !   dim=544, δ=1.00707731, β=164.27 
+ integrate perfect hint   	 Worthy hint !   dim=543, δ=1.00709977, β=163.37 
+ integrate short vector hint   	 Worthy hint !   dim=542, δ=1.00709981, β=163.37 
+ integrate perfect hint   	 Worthy hint !   dim=541, δ=1.00712243, β=162.46 
+ integrate short vector hint   	 Worthy hint !   dim=540, δ=1.00712246, β=162.46 
+ integrate perfect hint   	 Worthy hint !   dim=539, δ=1.00714523, β=161.56 
+ integrate short vector hint   	 Worthy hint !   dim=538, δ=1.00714526, β=161.56 
+ integrate perfect hint   	 Worthy hint !   dim=537, δ=1.00716819, β=160.66 
+ integrate short vector hint   	 Worthy hint !   dim=536, δ=1.00716822, β=160.66 
+ integrate perfect hint   	 Worthy hint !   dim=535, δ=1.00719130, β=159.75 
+ integrate short vector hint   	 Worthy hint !   dim=534, δ=1.00719132, β=159.75 
+ integrate perfect hint   	 Worthy hint !   dim=533, δ=1.00721456, β=158.85 
+ integrate short vector hint   	 Worthy hint !   dim=532, δ=1.00721458, β=158.85 
+ integrate perfect hint   	 Worthy hint !   dim=531, δ=1.00723798, β=157.95 
+ integrate short vector hint   	 Worthy hint !   dim=530, δ=1.00723800, β=157.95 
+ integrate perfect hint   	 Worthy hint !   dim=529, δ=1.00726715, β=157.04 
+ integrate short vector hint   	 Worthy hint !   dim=528, δ=1.00726717, β=157.04 
+ integrate perfect hint   	 Worthy hint !   dim=527, δ=1.00729094, β=156.14 
+ integrate short vector hint   	 Worthy hint !   dim=526, δ=1.00729096, β=156.14 
+ integrate perfect hint   	 Worthy hint !   dim=525, δ=1.00731489, β=155.24 
+ integrate short vector hint   	 Worthy hint !   dim=524, δ=1.00731491, β=155.24 
+ integrate perfect hint   	 Worthy hint !   dim=523, δ=1.00733901, β=154.34 
+ integrate short vector hint   	 Worthy hint !   dim=522, δ=1.00733902, β=154.34 
+ integrate perfect hint   	 Worthy hint !   dim=521, δ=1.00736329, β=153.44 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=520, δ=1.00738767, β=152.54 
+ integrate short vector hint   	 Worthy hint !   dim=519, δ=1.00738773, β=152.54 
+ integrate perfect hint   	 Worthy hint !   dim=518, δ=1.00741229, β=151.64 
+ integrate short vector hint   	 Worthy hint !   dim=517, δ=1.00741234, β=151.64 
+ integrate perfect hint   	 Worthy hint !   dim=516, δ=1.00743708, β=150.74 
+ integrate short vector hint   	 Worthy hint !   dim=515, δ=1.00743712, β=150.74 
+ integrate perfect hint   	 Worthy hint !   dim=514, δ=1.00746203, β=149.84 
+ integrate short vector hint   	 Worthy hint !   dim=513, δ=1.00746208, β=149.84 
+ integrate perfect hint   	 Worthy hint !   dim=512, δ=1.00748716, β=148.94 
+ integrate short vector hint   	 Worthy hint !   dim=511, δ=1.00748720, β=148.94 
+ integrate perfect hint   	 Worthy hint !   dim=510, δ=1.00751860, β=148.04 
+ integrate short vector hint   	 Worthy hint !   dim=509, δ=1.00751865, β=148.04 
+ integrate perfect hint   	 Worthy hint !   dim=508, δ=1.00754414, β=147.14 
+ integrate short vector hint   	 Worthy hint !   dim=507, δ=1.00754419, β=147.14 
+ integrate perfect hint   	 Worthy hint !   dim=506, δ=1.00756987, β=146.25 
+ integrate short vector hint   	 Worthy hint !   dim=505, δ=1.00756991, β=146.24 
+ integrate perfect hint   	 Worthy hint !   dim=504, δ=1.00759577, β=145.35 
+ integrate short vector hint   	 Worthy hint !   dim=503, δ=1.00759581, β=145.35 
+ integrate perfect hint   	 Worthy hint !   dim=502, δ=1.00762186, β=144.45 
+ integrate short vector hint   	 Worthy hint !   dim=501, δ=1.00762189, β=144.45 
+ integrate perfect hint   	 Worthy hint !   dim=500, δ=1.00764813, β=143.55 
+ integrate short vector hint   	 Worthy hint !   dim=499, δ=1.00764815, β=143.55 
+ integrate perfect hint   	 Worthy hint !   dim=498, δ=1.00767459, β=142.66 
+ integrate short vector hint   	 Worthy hint !   dim=497, δ=1.00767461, β=142.65 
+ integrate perfect hint   	 Worthy hint !   dim=496, δ=1.00770123, β=141.76 
+ integrate short vector hint   	 Worthy hint !   dim=495, δ=1.00770125, β=141.76 
+ integrate perfect hint   	 Worthy hint !   dim=494, δ=1.00772807, β=140.86 
+ integrate short vector hint   	 Worthy hint !   dim=493, δ=1.00772808, β=140.86 
+ integrate perfect hint   	 Worthy hint !   dim=492, δ=1.00775510, β=139.97 
+ integrate short vector hint   	 Worthy hint !   dim=491, δ=1.00775511, β=139.97 
+ integrate perfect hint   	 Worthy hint !   dim=490, δ=1.00778909, β=139.07 
+ integrate short vector hint   	 Worthy hint !   dim=489, δ=1.00778911, β=139.07 
+ integrate perfect hint   	 Worthy hint !   dim=488, δ=1.00781658, β=138.17 
+ integrate short vector hint   	 Worthy hint !   dim=487, δ=1.00781660, β=138.17 
+ integrate perfect hint   	 Worthy hint !   dim=486, δ=1.00784428, β=137.28 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=485, δ=1.00787210, β=136.39 
+ integrate short vector hint   	 Worthy hint !   dim=484, δ=1.00787217, β=136.39 
+ integrate perfect hint   	 Worthy hint !   dim=483, δ=1.00790020, β=135.49 
+ integrate short vector hint   	 Worthy hint !   dim=482, δ=1.00790027, β=135.49 
+ integrate perfect hint   	 Worthy hint !   dim=481, δ=1.00792851, β=134.60 
+ integrate short vector hint   	 Worthy hint !   dim=480, δ=1.00792857, β=134.60 
+ integrate perfect hint   	 Worthy hint !   dim=479, δ=1.00795703, β=133.70 
+ integrate short vector hint   	 Worthy hint !   dim=478, δ=1.00795709, β=133.70 
+ integrate perfect hint   	 Worthy hint !   dim=477, δ=1.00798575, β=132.81 
+ integrate short vector hint   	 Worthy hint !   dim=476, δ=1.00798581, β=132.81 
+ integrate perfect hint   	 Worthy hint !   dim=475, δ=1.00801469, β=131.92 
+ integrate short vector hint   	 Worthy hint !   dim=474, δ=1.00801474, β=131.91 
+ integrate perfect hint   	 Worthy hint !   dim=473, δ=1.00805126, β=131.02 
+ integrate short vector hint   	 Worthy hint !   dim=472, δ=1.00805132, β=131.02 
+ integrate perfect hint   	 Worthy hint !   dim=471, δ=1.00808072, β=130.13 
+ integrate short vector hint   	 Worthy hint !   dim=470, δ=1.00808077, β=130.13 
+ integrate perfect hint   	 Worthy hint !   dim=469, δ=1.00811039, β=129.24 
+ integrate short vector hint   	 Worthy hint !   dim=468, δ=1.00811044, β=129.24 
+ integrate perfect hint   	 Worthy hint !   dim=467, δ=1.00814029, β=128.35 
+ integrate short vector hint   	 Worthy hint !   dim=466, δ=1.00814034, β=128.35 
+ integrate perfect hint   	 Worthy hint !   dim=465, δ=1.00817042, β=127.45 
+ integrate short vector hint   	 Worthy hint !   dim=464, δ=1.00817046, β=127.45 
+ integrate perfect hint   	 Worthy hint !   dim=463, δ=1.00820077, β=126.56 
+ integrate short vector hint   	 Worthy hint !   dim=462, δ=1.00820081, β=126.56 
+ integrate perfect hint   	 Worthy hint !   dim=461, δ=1.00823136, β=125.67 
+ integrate short vector hint   	 Worthy hint !   dim=460, δ=1.00823139, β=125.67 
+ integrate perfect hint   	 Worthy hint !   dim=459, δ=1.00826217, β=124.78 
+ integrate short vector hint   	 Worthy hint !   dim=458, δ=1.00826220, β=124.78 
+ integrate perfect hint   	 Worthy hint !   dim=457, δ=1.00829323, β=123.89 
+ integrate short vector hint   	 Worthy hint !   dim=456, δ=1.00829325, β=123.89 
+ integrate perfect hint   	 Worthy hint !   dim=455, δ=1.00832452, β=123.00 
+ integrate short vector hint   	 Worthy hint !   dim=454, δ=1.00832453, β=123.00 
+ integrate perfect hint   	 Worthy hint !   dim=453, δ=1.00836432, β=122.11 
+ integrate short vector hint   	 Worthy hint !   dim=452, δ=1.00836434, β=122.11 
+ integrate perfect hint   	 Worthy hint !   dim=451, δ=1.00839619, β=121.22 
+ integrate short vector hint   	 Worthy hint !   dim=450, δ=1.00839621, β=121.22 
+ integrate perfect hint   	 Worthy hint !   dim=449, δ=1.00842831, β=120.33 
+ integrate short vector hint   	 Worthy hint !   dim=448, δ=1.00842833, β=120.33 
+ integrate perfect hint   	 Worthy hint !   dim=447, δ=1.00846068, β=119.44 
+ integrate short vector hint   	 Worthy hint !   dim=446, δ=1.00846069, β=119.44 
+ integrate perfect hint   	 Worthy hint !   dim=445, δ=1.00849331, β=118.55 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=444, δ=1.00852610, β=117.66 
+ integrate short vector hint   	 Worthy hint !   dim=443, δ=1.00852619, β=117.66 
+ integrate perfect hint   	 Worthy hint !   dim=442, δ=1.00855925, β=116.77 
+ integrate short vector hint   	 Worthy hint !   dim=441, δ=1.00855933, β=116.77 
+ integrate perfect hint   	 Worthy hint !   dim=440, δ=1.00859265, β=115.88 
+ integrate short vector hint   	 Worthy hint !   dim=439, δ=1.00859273, β=115.88 
+ integrate perfect hint   	 Worthy hint !   dim=438, δ=1.00862632, β=114.99 
+ integrate short vector hint   	 Worthy hint !   dim=437, δ=1.00862639, β=114.99 
+ integrate perfect hint   	 Worthy hint !   dim=436, δ=1.00866941, β=114.10 
+ integrate short vector hint   	 Worthy hint !   dim=435, δ=1.00866949, β=114.10 
+ integrate perfect hint   	 Worthy hint !   dim=434, δ=1.00870373, β=113.21 
+ integrate short vector hint   	 Worthy hint !   dim=433, δ=1.00870381, β=113.21 
+ integrate perfect hint   	 Worthy hint !   dim=432, δ=1.00873833, β=112.33 
+ integrate short vector hint   	 Worthy hint !   dim=431, δ=1.00873841, β=112.33 
+ integrate perfect hint   	 Worthy hint !   dim=430, δ=1.00877321, β=111.44 
+ integrate short vector hint   	 Worthy hint !   dim=429, δ=1.00877328, β=111.44 
+ integrate perfect hint   	 Worthy hint !   dim=428, δ=1.00880837, β=110.55 
+ integrate short vector hint   	 Worthy hint !   dim=427, δ=1.00880843, β=110.55 
+ integrate perfect hint   	 Worthy hint !   dim=426, δ=1.00884381, β=109.66 
+ integrate short vector hint   	 Worthy hint !   dim=425, δ=1.00884387, β=109.66 
+ integrate perfect hint   	 Worthy hint !   dim=424, δ=1.00887954, β=108.77 
+ integrate short vector hint   	 Worthy hint !   dim=423, δ=1.00887960, β=108.77 
+ integrate perfect hint   	 Worthy hint !   dim=422, δ=1.00891557, β=107.89 
+ integrate short vector hint   	 Worthy hint !   dim=421, δ=1.00891562, β=107.88 
+ integrate perfect hint   	 Worthy hint !   dim=420, δ=1.00895188, β=107.00 
+ integrate short vector hint   	 Worthy hint !   dim=419, δ=1.00895193, β=107.00 
+ integrate perfect hint   	 Worthy hint !   dim=418, δ=1.00899870, β=106.11 
+ integrate short vector hint   	 Worthy hint !   dim=417, δ=1.00899877, β=106.11 
+ integrate perfect hint   	 Worthy hint !   dim=416, δ=1.00903576, β=105.22 
+ integrate short vector hint   	 Worthy hint !   dim=415, δ=1.00903581, β=105.22 
+ integrate perfect hint   	 Worthy hint !   dim=414, δ=1.00907312, β=104.33 
+ integrate short vector hint   	 Worthy hint !   dim=413, δ=1.00907317, β=104.33 
+ integrate perfect hint   	 Worthy hint !   dim=412, δ=1.00911079, β=103.45 
+ integrate short vector hint   	 Worthy hint !   dim=411, δ=1.00911084, β=103.45 
+ integrate perfect hint   	 Worthy hint !   dim=410, δ=1.00914878, β=102.56 
+ integrate short vector hint   	 Worthy hint !   dim=409, δ=1.00914881, β=102.56 
+ integrate perfect hint   	 Worthy hint !   dim=408, δ=1.00918708, β=101.67 
+ integrate short vector hint   	 Worthy hint !   dim=407, δ=1.00918711, β=101.67 
+ integrate perfect hint   	 Worthy hint !   dim=406, δ=1.00922570, β=100.78 
+ integrate short vector hint   	 Worthy hint !   dim=405, δ=1.00922573, β=100.78 
+ integrate perfect hint   	 Worthy hint !   dim=404, δ=1.00926465, β=99.90 
+ integrate short vector hint   	 Worthy hint !   dim=403, δ=1.00926467, β=99.90 
+ integrate perfect hint   	 Worthy hint !   dim=402, δ=1.00931523, β=99.01 
+ integrate short vector hint   	 Worthy hint !   dim=401, δ=1.00931527, β=99.01 
+ integrate perfect hint   	 Worthy hint !   dim=400, δ=1.00935500, β=98.12 
+ integrate short vector hint   	 Worthy hint !   dim=399, δ=1.00935503, β=98.12 
+ integrate perfect hint   	 Worthy hint !   dim=398, δ=1.00939510, β=97.23 
+ integrate short vector hint   	 Worthy hint !   dim=397, δ=1.00939513, β=97.23 
+ integrate perfect hint   	 Worthy hint !   dim=396, δ=1.00943556, β=96.34 
+ integrate short vector hint   	 Worthy hint !   dim=395, δ=1.00943558, β=96.34 
+ integrate perfect hint   	 Worthy hint !   dim=394, δ=1.00947636, β=95.46 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=393, δ=1.00951738, β=94.57 
+ integrate short vector hint   	 Worthy hint !   dim=392, δ=1.00951750, β=94.57 
+ integrate perfect hint   	 Worthy hint !   dim=391, δ=1.00955888, β=93.68 
+ integrate short vector hint   	 Worthy hint !   dim=390, δ=1.00955901, β=93.68 
+ integrate perfect hint   	 Worthy hint !   dim=389, δ=1.00960075, β=92.79 
+ integrate short vector hint   	 Worthy hint !   dim=388, δ=1.00960087, β=92.79 
+ integrate perfect hint   	 Worthy hint !   dim=387, δ=1.00964298, β=91.90 
+ integrate short vector hint   	 Worthy hint !   dim=386, δ=1.00964309, β=91.90 
+ integrate perfect hint   	 Worthy hint !   dim=385, δ=1.00969832, β=91.01 
+ integrate short vector hint   	 Worthy hint !   dim=384, δ=1.00969846, β=91.01 
+ integrate perfect hint   	 Worthy hint !   dim=383, δ=1.00974148, β=90.12 
+ integrate short vector hint   	 Worthy hint !   dim=382, δ=1.00974162, β=90.12 
+ integrate perfect hint   	 Worthy hint !   dim=381, δ=1.00978503, β=89.23 
+ integrate short vector hint   	 Worthy hint !   dim=380, δ=1.00978515, β=89.23 
+ integrate perfect hint   	 Worthy hint !   dim=379, δ=1.00982895, β=88.34 
+ integrate short vector hint   	 Worthy hint !   dim=378, δ=1.00982907, β=88.34 
+ integrate perfect hint   	 Worthy hint !   dim=377, δ=1.00987326, β=87.45 
+ integrate short vector hint   	 Worthy hint !   dim=376, δ=1.00987338, β=87.45 
+ integrate perfect hint   	 Worthy hint !   dim=375, δ=1.00991797, β=86.56 
+ integrate short vector hint   	 Worthy hint !   dim=374, δ=1.00991808, β=86.55 
+ integrate perfect hint   	 Worthy hint !   dim=373, δ=1.00996307, β=85.66 
+ integrate short vector hint   	 Worthy hint !   dim=372, δ=1.00996317, β=85.66 
+ integrate perfect hint   	 Worthy hint !   dim=371, δ=1.01000857, β=84.77 
+ integrate short vector hint   	 Worthy hint !   dim=370, δ=1.01000866, β=84.77 
+ integrate perfect hint   	 Worthy hint !   dim=369, δ=1.01005448, β=83.88 
+ integrate short vector hint   	 Worthy hint !   dim=368, δ=1.01005456, β=83.87 
+ integrate perfect hint   	 Worthy hint !   dim=367, δ=1.01010079, β=82.98 
+ integrate short vector hint   	 Worthy hint !   dim=366, δ=1.01010087, β=82.98 
+ integrate perfect hint   	 Worthy hint !   dim=365, δ=1.01016229, β=82.08 
+ integrate short vector hint   	 Worthy hint !   dim=364, δ=1.01016240, β=82.08 
+ integrate perfect hint   	 Worthy hint !   dim=363, δ=1.01020968, β=81.19 
+ integrate short vector hint   	 Worthy hint !   dim=362, δ=1.01020979, β=81.19 
+ integrate perfect hint   	 Worthy hint !   dim=361, δ=1.01025750, β=80.29 
+ integrate short vector hint   	 Worthy hint !   dim=360, δ=1.01025760, β=80.29 
+ integrate perfect hint   	 Worthy hint !   dim=359, δ=1.01030576, β=79.39 
+ integrate short vector hint   	 Worthy hint !   dim=358, δ=1.01030584, β=79.39 
+ integrate perfect hint   	 Worthy hint !   dim=357, δ=1.01035445, β=78.49 
+ integrate short vector hint   	 Worthy hint !   dim=356, δ=1.01035453, β=78.49 
+ integrate perfect hint   	 Worthy hint !   dim=355, δ=1.01040358, β=77.59 
+ integrate short vector hint   	 Worthy hint !   dim=354, δ=1.01040365, β=77.59 
+ integrate perfect hint   	 Worthy hint !   dim=353, δ=1.01045316, β=76.69 
+ integrate short vector hint   	 Worthy hint !   dim=352, δ=1.01045322, β=76.69 
+ integrate perfect hint   	 Worthy hint !   dim=351, δ=1.01050319, β=75.79 
+ integrate short vector hint   	 Worthy hint !   dim=350, δ=1.01050324, β=75.78 
+ integrate perfect hint   	 Worthy hint !   dim=349, δ=1.01055367, β=74.88 
+ integrate short vector hint   	 Worthy hint !   dim=348, δ=1.01055372, β=74.88 
+ integrate perfect hint   	 Worthy hint !   dim=347, δ=1.01060462, β=73.97 
+ integrate short vector hint   	 Worthy hint !   dim=346, δ=1.01060465, β=73.97 
+ integrate perfect hint   	 Worthy hint !   dim=345, δ=1.01067338, β=73.06 
+ integrate short vector hint   	 Worthy hint !   dim=344, δ=1.01067345, β=73.06 
+ integrate perfect hint   	 Worthy hint !   dim=343, δ=1.01072557, β=72.15 
+ integrate short vector hint   	 Worthy hint !   dim=342, δ=1.01072564, β=72.15 
+ integrate perfect hint   	 Worthy hint !   dim=341, δ=1.01077824, β=71.24 
+ integrate short vector hint   	 Worthy hint !   dim=340, δ=1.01077830, β=71.24 
+ integrate perfect hint   	 Worthy hint !   dim=339, δ=1.01083141, β=70.33 
+ integrate short vector hint   	 Worthy hint !   dim=338, δ=1.01083145, β=70.33 
+ integrate perfect hint   	 Worthy hint !   dim=337, δ=1.01088506, β=69.41 
+ integrate short vector hint   	 Worthy hint !   dim=336, δ=1.01088510, β=69.41 
+ integrate perfect hint   	 Worthy hint !   dim=335, δ=1.01093921, β=68.49 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=334, δ=1.01099364, β=67.57 
+ integrate short vector hint   	 Worthy hint !   dim=333, δ=1.01099385, β=67.57 
+ integrate perfect hint   	 Worthy hint !   dim=332, δ=1.01104880, β=66.64 
+ integrate short vector hint   	 Worthy hint !   dim=331, δ=1.01104900, β=66.64 
+ integrate perfect hint   	 Worthy hint !   dim=330, δ=1.01110446, β=65.71 
+ integrate short vector hint   	 Worthy hint !   dim=329, δ=1.01110466, β=65.71 
+ integrate perfect hint   	 Worthy hint !   dim=328, δ=1.01116064, β=64.78 
+ integrate short vector hint   	 Worthy hint !   dim=327, δ=1.01116083, β=64.78 
+ integrate perfect hint   	 Worthy hint !   dim=326, δ=1.01121733, β=63.84 
+ integrate short vector hint   	 Worthy hint !   dim=325, δ=1.01121751, β=63.84 
+ integrate perfect hint   	 Worthy hint !   dim=324, δ=1.01127455, β=62.90 
+ integrate short vector hint   	 Worthy hint !   dim=323, δ=1.01127471, β=62.90 
+ integrate perfect hint   	 Worthy hint !   dim=322, δ=1.01133228, β=61.95 
+ integrate short vector hint   	 Worthy hint !   dim=321, δ=1.01133244, β=61.95 
+ integrate perfect hint   	 Worthy hint !   dim=320, δ=1.01141248, β=61.00 
+ integrate short vector hint   	 Worthy hint !   dim=319, δ=1.01139068, β=61.00 
+ integrate perfect hint   	 Worthy hint !   dim=318, δ=1.01147173, β=60.04 
+ integrate short vector hint   	 Worthy hint !   dim=317, δ=1.01147193, β=60.04 
+ integrate perfect hint   	 Worthy hint !   dim=316, δ=1.01153152, β=59.08 
+ integrate short vector hint   	 Worthy hint !   dim=315, δ=1.01153171, β=59.08 
+ integrate perfect hint   	 Worthy hint !   dim=314, δ=1.01159186, β=58.11 
+ integrate short vector hint   	 Worthy hint !   dim=313, δ=1.01159205, β=58.11 
+ integrate perfect hint   	 Worthy hint !   dim=312, δ=1.01165276, β=57.13 
+ integrate short vector hint   	 Worthy hint !   dim=311, δ=1.01165293, β=57.13 
+ integrate perfect hint   	 Worthy hint !   dim=310, δ=1.01171420, β=56.15 
+ integrate short vector hint   	 Worthy hint !   dim=309, δ=1.01171436, β=56.15 
+ integrate perfect hint   	 Worthy hint !   dim=308, δ=1.01177621, β=55.15 
+ integrate short vector hint   	 Worthy hint !   dim=307, δ=1.01177635, β=55.15 
+ integrate perfect hint   	 Worthy hint !   dim=306, δ=1.01183877, β=54.14 
+ integrate short vector hint   	 Worthy hint !   dim=305, δ=1.01183890, β=54.14 
+ integrate perfect hint   	 Worthy hint !   dim=304, δ=1.01190188, β=53.13 
+ integrate short vector hint   	 Worthy hint !   dim=303, δ=1.01190200, β=53.12 
+ integrate perfect hint   	 Worthy hint !   dim=302, δ=1.01196556, β=52.09 
+ integrate short vector hint   	 Worthy hint !   dim=301, δ=1.01196566, β=52.09 
+ integrate perfect hint   	 Worthy hint !   dim=300, δ=1.01202979, β=51.05 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=299, δ=1.01206632, β=49.98 
+ integrate short vector hint   	 Worthy hint !   dim=298, δ=1.01206657, β=49.98 
+ integrate perfect hint   	 Worthy hint !   dim=297, δ=1.01213062, β=48.89 
+ integrate short vector hint   	 Worthy hint !   dim=296, δ=1.01213085, β=48.89 
+ integrate perfect hint   	 Worthy hint !   dim=295, δ=1.01219618, β=47.79 
+ integrate short vector hint   	 Worthy hint !   dim=294, δ=1.01219639, β=47.79 
+ integrate perfect hint   	 Worthy hint !   dim=293, δ=1.01226277, β=46.68 
+ integrate short vector hint   	 Worthy hint !   dim=292, δ=1.01226297, β=46.67 
+ integrate perfect hint   	 Worthy hint !   dim=291, δ=1.01233014, β=45.55 
+ integrate short vector hint   	 Worthy hint !   dim=290, δ=1.01233033, β=45.55 
+ integrate perfect hint   	 Worthy hint !   dim=289, δ=1.01239898, β=44.41 
+ integrate short vector hint   	 Worthy hint !   dim=288, δ=1.01239915, β=44.40 
+ integrate perfect hint   	 Worthy hint !   dim=287, δ=1.01246873, β=43.25 
+ integrate short vector hint   	 Worthy hint !   dim=286, δ=1.01246888, β=43.25 
+ integrate perfect hint   	 Worthy hint !   dim=285, δ=1.01254008, β=42.09 
+ integrate short vector hint   	 Worthy hint !   dim=284, δ=1.01254022, β=42.09 
+ integrate perfect hint   	 Worthy hint !   dim=283, δ=1.01258290, β=40.90 
+ integrate short vector hint   	 Worthy hint !   dim=282, δ=1.01258292, β=40.90 
+ integrate perfect hint   	 Worthy hint !   dim=281, δ=1.01265709, β=39.69 
+ integrate short vector hint   	 Unworthy hint, Rejected. 
+ integrate perfect hint   	 Worthy hint !   dim=280, δ=1.01273226, β=38.47 
+ integrate short vector hint   	 Worthy hint !   dim=279, δ=1.01273260, β=38.47 
+ integrate perfect hint   	 Worthy hint !   dim=278, δ=1.01280972, β=37.23 
+ integrate short vector hint   	 Worthy hint !   dim=277, δ=1.01281006, β=37.23 
+ integrate perfect hint   	 Worthy hint !   dim=276, δ=1.01286029, β=35.96 
+ integrate short vector hint   	 Worthy hint !   dim=275, δ=1.01286053, β=35.96 
+ integrate perfect hint   	 Worthy hint !   dim=274, δ=1.01294183, β=34.67 
+ integrate short vector hint   	 Worthy hint !   dim=273, δ=1.01294208, β=34.66 
+ integrate perfect hint   	 Worthy hint !   dim=272, δ=1.01302522, β=33.34 
+ integrate short vector hint   	 Worthy hint !   dim=271, δ=1.01302549, β=33.34 
+ integrate perfect hint   	 Worthy hint !   dim=270, δ=1.01308503, β=31.99 
+ integrate short vector hint   	 Worthy hint !   dim=269, δ=1.01308522, β=31.99 
+ integrate perfect hint   	 Worthy hint !   dim=268, δ=1.01317392, β=30.58 
+ integrate short vector hint   	 Worthy hint !   dim=267, δ=1.01317413, β=30.58 
+ integrate perfect hint   	 Worthy hint !   dim=266, δ=1.01326576, β=29.13 
+ integrate short vector hint   	 Worthy hint !   dim=265, δ=1.01326600, β=29.13 
+ integrate perfect hint   	 Worthy hint !   dim=264, δ=1.01333845, β=27.54 
+ integrate short vector hint   	 Worthy hint !   dim=263, δ=1.01333866, β=27.53 
+ integrate perfect hint   	 Worthy hint !   dim=262, δ=1.01341117, β=25.51 
+ integrate short vector hint   	 Worthy hint !   dim=261, δ=1.01341133, β=25.50 
+ integrate perfect hint   	 Worthy hint !   dim=260, δ=1.01351246, β=24.39 
+ integrate short vector hint   	 Worthy hint !   dim=259, δ=1.01351268, β=24.39 
+ integrate perfect hint   	 Worthy hint !   dim=258, δ=1.01363986, β=23.58 
+ integrate short vector hint   	 Worthy hint !   dim=257, δ=1.01364023, β=23.57 
+ integrate perfect hint   	 Worthy hint !   dim=256, δ=1.01377054, β=22.74 
+ integrate short vector hint   	 Worthy hint !   dim=255, δ=1.01377109, β=22.74 
+ integrate perfect hint   	 Worthy hint !   dim=254, δ=1.01390491, β=21.89 
+ integrate short vector hint   	 Worthy hint !   dim=253, δ=1.01390564, β=21.88 
+ integrate perfect hint   	 Worthy hint !   dim=252, δ=1.01403544, β=21.00 
+ integrate short vector hint   	 Worthy hint !   dim=251, δ=1.01404435, β=21.00 
+ integrate perfect hint   	 Worthy hint !   dim=250, δ=1.01417643, β=20.09 
+ integrate short vector hint   	 Worthy hint !   dim=249, δ=1.01417753, β=20.08 
+ integrate perfect hint   	 Worthy hint !   dim=248, δ=1.01433111, β=18.99 
+ integrate short vector hint   	 Worthy hint !   dim=247, δ=1.01433247, β=18.98 
+ integrate perfect hint   	 Worthy hint !   dim=246, δ=1.01448195, β=17.81 
+ integrate short vector hint   	 Worthy hint !   dim=245, δ=1.01448355, β=17.79 
+ integrate perfect hint   	 Worthy hint !   dim=244, δ=1.01463993, β=16.54 
+ integrate short vector hint   	 Worthy hint !   dim=243, δ=1.01464180, β=16.52 
+ integrate perfect hint   	 Worthy hint !   dim=242, δ=1.01480601, β=15.15 
+ integrate short vector hint   	 Worthy hint !   dim=241, δ=1.01480818, β=15.13 
+ integrate perfect hint   	 Worthy hint !   dim=240, δ=1.01498136, β=14.38 
+ integrate short vector hint   	 Worthy hint !   dim=239, δ=1.01498388, β=14.37 
+ integrate perfect hint   	 Worthy hint !   dim=238, δ=1.01518236, β=13.66 
+ integrate short vector hint   	 Worthy hint !   dim=237, δ=1.01518533, β=13.64 
+ integrate perfect hint   	 Worthy hint !   dim=236, δ=1.01539376, β=12.90 
+ integrate short vector hint   	 Worthy hint !   dim=235, δ=1.01539723, β=12.88 
+ integrate perfect hint   	 Worthy hint !   dim=234, δ=1.01555060, β=12.09 
+ integrate short vector hint   	 Worthy hint !   dim=233, δ=1.01555433, β=12.07 
+ integrate perfect hint   	 Worthy hint !   dim=232, δ=1.01577819, β=11.23 
+ integrate short vector hint   	 Worthy hint !   dim=231, δ=1.01578250, β=11.20 
+ integrate perfect hint   	 Worthy hint !   dim=230, δ=1.01602106, β=10.27 
+ integrate short vector hint   	 Worthy hint !   dim=229, δ=1.01602601, β=10.24 
+ integrate perfect hint   	 Worthy hint !   dim=228, δ=1.01628260, β=9.66 
+ integrate short vector hint   	 Worthy hint !   dim=227, δ=1.01628828, β=9.65 
+ integrate perfect hint   	 Worthy hint !   dim=226, δ=1.01645480, β=9.19 
+ integrate short vector hint   	 Worthy hint !   dim=225, δ=1.01646082, β=9.17 
+ integrate perfect hint   	 Worthy hint !   dim=224, δ=1.01676153, β=8.68 
+ integrate short vector hint   	 Worthy hint !   dim=223, δ=1.01676850, β=8.66 
+ integrate perfect hint   	 Worthy hint !   dim=222, δ=1.01694224, β=8.15 
+ integrate short vector hint   	 Worthy hint !   dim=221, δ=1.01694958, β=8.12 
+ integrate perfect hint   	 Worthy hint !   dim=220, δ=1.01727991, β=7.56 
+ integrate short vector hint   	 Worthy hint !   dim=219, δ=1.01728835, β=7.54 
+ integrate perfect hint   	 Worthy hint !   dim=218, δ=1.01765214, β=6.94 
+ integrate short vector hint   	 Worthy hint !   dim=217, δ=1.01766186, β=6.90 
+ integrate perfect hint   	 Worthy hint !   dim=216, δ=1.01784792, β=6.21 
+ integrate short vector hint   	 Worthy hint !   dim=215, δ=1.01785811, β=6.17 
+ integrate perfect hint   	 Worthy hint !   dim=214, δ=1.01827363, β=5.30 
+ integrate short vector hint   	 Worthy hint !   dim=213, δ=1.01828536, β=5.24 
+ integrate perfect hint   	 Worthy hint !   dim=212, δ=1.01876654, β=4.79 
+ integrate short vector hint   	 Worthy hint !   dim=211, δ=1.01878017, β=4.77 
+ integrate perfect hint   	 Worthy hint !   dim=210, δ=1.01898058, β=4.48 
+ integrate short vector hint   	 Worthy hint !   dim=209, δ=1.01899480, β=4.46 
+ integrate perfect hint   	 Worthy hint !   dim=208, δ=1.01919945, β=4.16 
+ integrate short vector hint   	 Worthy hint !   dim=207, δ=1.01921427, β=4.14 
+ integrate perfect hint   	 Worthy hint !   dim=206, δ=1.01983005, β=3.79 
+ integrate short vector hint   	 Worthy hint !   dim=205, δ=1.01984751, β=3.75 
+ integrate perfect hint   	 Worthy hint !   dim=204, δ=1.02006312, β=3.36 
+ integrate short vector hint   	 Worthy hint !   dim=203, δ=1.02008128, β=3.32 
+ integrate perfect hint   	 Worthy hint !   dim=202, δ=1.02085816, β=2.80 
+ integrate short vector hint   	 Worthy hint !   dim=201, δ=1.02087984, β=2.72 
+ integrate perfect hint   	 Worthy hint !   dim=200, δ=1.02194943, β=2.00
+
+
+404.56, 402.61, 400.66, 399.69, 398.72, 397.75, 396.78, 395.81, 394.83, 393.86, 392.89, 391.92, 390.95, 389.98, 389.01, 387.07, 386.1, 385.14, 384.17, 383.2, 382.23, 381.26, 380.29, 379.32, 378.36, 377.39, 376.42, 375.46, 374.49, 372.56, 371.59, 370.62, 369.66, 368.69, 367.73, 366.76, 365.8, 364.83, 363.87, 362.9, 361.94, 360.97, 359.05, 358.08, 357.12, 356.16, 355.2, 354.23, 353.27, 352.31, 351.35, 350.39, 349.43, 348.46, 347.5, 346.54, 345.58, 343.66, 342.7, 341.74, 340.78, 339.82, 338.87, 337.91, 336.95, 335.99, 335.03, 334.07, 333.12, 332.16, 331.2, 330.25, 328.33, 327.38, 326.42, 325.47, 324.51, 323.56, 322.6, 321.65, 320.69, 319.74, 318.78, 317.83, 316.88, 315.92, 314.97, 313.07, 312.11, 311.16, 310.21, 309.26, 308.31, 307.36, 306.41, 305.45, 304.5, 303.55, 302.6, 301.65, 300.71, 299.76, 298.81, 296.91, 295.96, 295.02, 294.07, 293.12, 292.17, 291.23, 290.28, 289.33, 288.39, 287.44, 286.5, 285.55, 284.61, 283.66, 282.72, 281.77, 279.89, 278.94, 278, 277.06, 276.11, 275.17, 274.23, 273.29, 272.35, 271.41, 270.47, 269.52, 268.58, 267.64, 266.7, 265.77, 264.83, 262.95, 262.01, 261.07, 260.13, 259.2, 258.26, 257.32, 256.39, 255.45, 254.51, 253.58, 252.64, 251.71, 250.77, 249.84, 248.9, 247.97, 247.03, 246.1, 244.24, 243.3, 242.37, 241.44, 240.51, 239.57, 238.64, 237.71, 236.78, 235.85, 234.92, 233.99, 233.06, 232.13, 231.2, 230.28, 229.35, 228.42, 227.49, 226.57, 224.71, 223.79, 222.86, 221.93, 221.01, 220.08, 219.16, 218.23, 217.31, 216.39, 215.46, 214.54, 213.62, 212.69, 211.77, 210.85, 209.93, 209.01, 208.09, 207.17, 206.25, 205.33, 203.49, 202.57, 201.65, 200.73, 199.81, 198.9, 197.98, 197.06, 196.14, 195.23, 194.31, 193.4, 192.48, 191.57, 190.65, 189.74, 188.82, 187.91, 186.99, 186.08, 185.17, 184.26, 183.35, 182.43, 181.52, 179.7, 178.79, 177.88, 176.97, 176.06, 175.15, 174.24, 173.34, 172.43, 171.52, 170.61, 169.71, 168.8, 167.89, 166.99, 166.08, 165.18, 164.27, 163.37, 162.46, 161.56, 160.66, 159.75, 158.85, 157.95, 157.04, 156.14, 155.24, 154.34, 152.54, 151.64, 150.74, 149.84, 148.94, 148.04, 147.14, 146.25, 145.35, 144.45, 143.55, 142.66, 141.76, 140.86, 139.97, 139.07, 138.17, 137.28, 136.39, 135.49, 134.6, 133.7, 132.81, 131.91, 131.02, 130.13, 129.24, 128.35, 127.45, 126.56, 125.67, 124.78, 123.89, 123, 122.11, 121.22, 120.33, 119.44, 117.66, 116.77, 115.88, 114.99, 114.1, 113.21, 112.33, 111.44, 110.55, 109.66, 108.77, 107.89, 107, 106.11, 105.22, 104.33, 103.45, 102.56, 101.67, 100.78, 99.9, 99.01, 98.12, 97.23, 96.34, 95.46, 94.57, 93.68, 92.79, 91.9, 91.01, 90.12, 89.23, 88.34, 87.45, 86.55, 85.66, 84.77, 83.87, 82.98, 82.08, 81.19, 80.29, 79.39, 78.49, 77.59, 76.69, 75.78, 74.88, 73.97, 73.06, 72.15, 71.24, 70.33, 69.41, 67.57, 66.64, 65.71, 64.78, 63.84, 62.9, 61.95, 61, 60.04, 59.08, 58.11, 57.13, 56.15, 55.15, 54.14, 53.13, 52.09, 51.05, 49.98, 48.89, 47.79, 46.67, 45.55, 44.4, 43.25, 42.09, 40.9, 38.47, 37.23, 35.96, 34.67, 33.34, 31.99, 30.58, 29.13, 27.54, 25.51, 24.39, 23.58, 22.74, 21.89, 21, 20.09, 18.99, 17.81, 16.54, 15.15, 14.38, 13.66, 12.9, 12.09, 11.23, 10.27, 9.66, 9.19, 8.68, 8.15, 7.56, 6.94, 6.21, 5.3, 4.79, 4.48, 4.16, 3.79, 3.36, 2.8, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
